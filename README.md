@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello There! I am Ayush Sahoo
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnfrsmusic&theme=tokyonight)
 <!--
 **bnfrsMusic/bnfrsmusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
