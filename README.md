@@ -1,5 +1,5 @@
-## Hello There👋! I am Ayush Sahoo, a student at Mercer University.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnfrsmusic&theme=tokyonight)
+## Hello There👋! I am Ayush Sahoo, a freshman at Mercer University.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnfrsmusic)
 <!--
 **bnfrsMusic/bnfrsmusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
